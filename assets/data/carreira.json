@@ -1,0 +1,149 @@
+{
+  "seo": {
+    "title": "Lucas Santos Silva | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira do Lucas Santos Silva, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Lucas Santos Silva",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Lucas Santos Silva",
+    "headline": "Proano | Desenvolvedor Full-Stack | Desenvolvimento de Software | C#, JavaScript, React.js, ASP.NET, HTML, CSS, Figma | Git, Github.",
+    "photo": "assets/images/profile.jpeg",
+    "photoAlt": "Foto profissional do Lucas Santos Silva | ",
+    "summary": "Sou um desenvolvedor Full Stack em formação pelo Instituto PROA, com base sólida em C#, JavaScript e React. Atualmente, estou direcionando minha carreira para a Engenharia de Dados, aprimorando minhas habilidades em Python, SQL e processos de ETL.",
+    "cvUrl": "Curriculo_Lucas Santos Silva.pdf"
+  },
+  "contacts": [
+    {
+      "label": "lucas.santossp1@hotmail.com",
+      "url": "mailto:lucas.santossp1@hotmail.com"
+    },
+    {
+      "label": "linkedin.com/in/lucassantos-silva",
+      "url": "https://www.linkedin.com/in/lucassantos-silva"
+    },
+    {
+      "label": "github.com/LucSantSil",
+      "url": "https://github.com/LucSantSil"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Engenheiro de Dados Junior",
+      "description": "Desenvolver mais as habilidades em SQL, Python,versionamento,Banco de dados,conceitos ETL/ELT e Noções em Cloud .",
+      "softSkills": [
+        "Responsabilidade sobre entregas e prazos combinados.",
+        "Colaboracao em revisoes de codigo e planejamento.",
+        "Visão de negócios",
+        "Comunicação tradutora",
+        "Resolução de problemas",
+        "Curiosidade e aprendizado contínuo",
+        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+      ],
+      "roadmap": [
+        "SQL Avançado",
+        "Python(Pandas, PySpark",
+        "C# e Java(Suporte e integração)",
+        "APIs REST",
+        "Testes automatizados",
+        "Modelagem de Banco de dados",
+        "Conceitos de ETL/ELT",
+        "Conceitos de Nuvem(AWS/GCP/Azure)",
+        "Ferramentas de ETL/ELT (dbt, Airflow básico)"
+      ]
+    },
+    {
+      "title": "Engenheiro de Dados Pleno",
+      "description": "Ganhar autonomia no desenho e manutenção de pipelines, otimização de consultas e começar a conectar ativamente as soluções técnicas de dados com as necessidades administrativas e rotinas comerciais da empresa.",
+      "softSkills": [
+        "Autonomia na resolução de problemas complexos e troubleshooting.",
+        "Negociação e alinhamento de expectativas com stakeholders (áreas de negócio).",
+        "Visão sistêmica: entender como os pipelines de dados impactam as operações de vendas, gestão e administração diária.",
+        "Proatividade para sugerir melhorias de performance.",
+        "Capacidade de dar suporte e mentoria inicial para desenvolvedores juniores."
+      ],
+      "roadmap": [
+        "Modelagem Dimensional (Data Warehouse, Star Schema)",
+        "Orquestração de Dados (Apache Airflow, Mage ou Prefect)",
+        "Serviços de Cloud Avançados (S3/GCS, BigQuery/Redshift/Snowflake)",
+        "Processamento Distribuído (Apache Spark)",
+        "Ferramentas de Transformação (dbt)",
+        "CI/CD aplicado a Engenharia de Dados",
+        "Testes de Qualidade de Dados (Data Quality)"
+      ]
+    },
+    {
+      "title": "Engenheiro de Dados Sênior",
+      "description": "Liderança técnica, desenho de infraestruturas de dados escaláveis, governança, segurança e alinhamento da estratégia de dados com a visão de longo prazo e redução de custos da empresa.",
+      "softSkills": [
+        "Liderança técnica, guiando as melhores práticas do time.",
+        "Comunicação executiva (capacidade de traduzir arquitetura, riscos e custos para diretores e gerentes não-técnicos).",
+        "Gerenciamento de crises e alta resiliência em sistemas críticos.",
+        "Visão estratégica focada na escalabilidade do negócio."
+      ],
+      "roadmap": [
+        "Arquiteturas de Dados Modernas (Data Lakehouse, Data Mesh)",
+        "Governança, Privacidade e Segurança de Dados",
+        "Processamento em Tempo Real / Streaming (Apache Kafka, Flink)",
+        "System Design (Desenho de Sistemas Escaláveis)",
+        "FinOps (Otimização e gestão de custos em Nuvem)",
+        "Infraestrutura como Código (Terraform)",
+        "Conteinerização e Orquestração (Docker, Kubernetes)"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 80
+        },
+        {
+          "name": "React",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Node.js e APIs",
+          "level": 70
+        },
+        {
+          "name": "SQL",
+          "level": 60
+        },
+         {
+          "name": "Python",
+          "level": 20
+        },
+         {
+          "name": "C#",
+          "level": 60
+        }
+        
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Git",
+    "Comunicacao",
+    "Documentacao",
+    "Code review"
+  ],
+  "languages": [
+    {
+      "name": "Portugues",
+      "level": "Nativo"
+    },
+    {
+      "name": "Ingles",
+      "level": "Intermediário"
+    }
+   
+  ]
+}
