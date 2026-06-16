@@ -7,7 +7,7 @@
   },
   "profile": {
     "name": "Lucas Santos Silva",
-    "headline": "Proano | Desenvolvedor Full-Stack | Desenvolvimento de Software | C#, JavaScript, React.js, ASP.NET, HTML, CSS, Figma | Git, Github.",
+    "headline": "Proano|Desenvolvimento de Software",
     "photo": "assets/images/profile.jpeg",
     "photoAlt": "Foto profissional do Lucas Santos Silva | ",
     "summary": "Sou um desenvolvedor Full Stack em formação pelo Instituto PROA, com base sólida em C#, JavaScript e React. Atualmente, estou direcionando minha carreira para a Engenharia de Dados, aprimorando minhas habilidades em Python, SQL e processos de ETL.",
@@ -23,7 +23,7 @@
       "url": "https://www.linkedin.com/in/lucassantos-silva"
     },
     {
-      "label": "https://github.com/LucSantSil",
+      "label": "github.com/LucSantSil",
       "url": "https://github.com/LucSantSil"
     }
   ],
