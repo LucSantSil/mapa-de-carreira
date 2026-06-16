@@ -127,6 +127,28 @@
         }
         
       ]
+    },
+    {
+      "title": "Soft Skills",
+      "skills": [
+        {
+          "name": "Comunicação",
+          "level": 90
+        },
+        {
+          "name": "Liderança",
+          "level": 100
+        },
+         {
+          "name": "Python",
+          "level": 20
+        },
+         {
+          "name": "C#",
+          "level": 60
+        }
+        
+      ]
     }
   ],
   "otherSkills": [

@@ -36,9 +36,9 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #80425F;
+  --bs-primary: #426480;
   --bs-secondary: #58677c;
-  --bs-primary-rgb: 128, 66, 95;
+  --bs-primary-rgb: 106, 90, 205;
   --bs-secondary-rgb: 88.2236024845, 102.7080745342, 123.7763975155;
   --bs-primary-text-emphasis: #052c65;
   --bs-secondary-text-emphasis: #2b2f32;
@@ -148,7 +148,7 @@
   --bs-success-bg-subtle: #051b11;
   --bs-info-bg-subtle: #032830;
   --bs-warning-bg-subtle: #332701;
-  --bs-danger-bg-subtle: #2c0b0e;
+  --bs-danger-bg-subtle: #0b202c;
   --bs-light-bg-subtle: #343a40;
   --bs-dark-bg-subtle: #1a1d20;
   --bs-primary-border-subtle: #084298;
@@ -11726,7 +11726,7 @@ a.no-text-decoration {
 }
 
 .theme-bg-primary-darken {
-  background-color: #3d1f2d;
+  background-color: #1f213d;
 }
 
 a.theme-btn-on-bg, .theme-btn-on-bg {
@@ -11746,7 +11746,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #80425F;
+  background-color: #4d4280;
 }
 
 .resume-wrapper {
@@ -11759,7 +11759,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #80425F;
+  background: #4d4280;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
@@ -11803,7 +11803,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #80425F;
+  color: #4d4280;
 }
 
 .resume-section-title:after {
@@ -11829,7 +11829,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #d9b5c6;
+  background: #4d428079;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -11843,7 +11843,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #a25378;
+  border: 4px solid #4d4280;
   background: white;
   border-radius: 50%;
 }
@@ -11865,7 +11865,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #434E5E;
+  color: #393bca;
 }
 
 .resume-timeline-item-desc-heading {

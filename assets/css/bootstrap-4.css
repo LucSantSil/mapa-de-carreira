@@ -38,7 +38,7 @@
   --bs-gray-900: #212529;
   --bs-primary: #328998;
   --bs-secondary: #58677c;
-  --bs-primary-rgb: 50, 137, 152;
+  --bs-primary-rgb: 106, 90, 205;
   --bs-secondary-rgb: 88.2236024845, 102.7080745342, 123.7763975155;
   --bs-primary-text-emphasis: #052c65;
   --bs-secondary-text-emphasis: #2b2f32;
@@ -11759,7 +11759,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header {
-  background: #328998;
+  background: #673298;
   color: rgba(255, 255, 255, 0.9);
   height: 220px;
 }
